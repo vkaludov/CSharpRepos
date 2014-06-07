@@ -1,0 +1,8 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\10ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\10ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\10ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

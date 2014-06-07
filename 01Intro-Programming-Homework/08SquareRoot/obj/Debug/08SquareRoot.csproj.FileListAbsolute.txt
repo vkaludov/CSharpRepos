@@ -1,0 +1,9 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\SquareRoot\obj\Debug\08SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\08SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\08SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\08SquareRoot\obj\Debug\SquareRoot.pdb

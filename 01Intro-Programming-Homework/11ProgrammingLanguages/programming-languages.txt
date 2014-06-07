@@ -1,0 +1,19 @@
+1. Python
+
+ The main reason why programmers prefer this language instead ot C# is that it requires less lines of code and has a very good readability.It is also available fo many Operating systems and is not only used as a language for sripting but also in a large variety of non-scripting contexts. Python also has a wide and detailed standard library.
+
+2. PHP
+
+ PHP stands for "Hypertext Preprocessor" and is a server-side scripting language which is mainly created for web development but is also used as a general-purpose programming language. It is a free software that can be run on almost every operating system and platform. PHP is interpreted by a web server with a PHP processor module, which generates the resulting web page.
+
+3. Java
+
+ Developed by Oracle, Java is one of the most popular programming languages today especially when it comes to client-server web aplications. Similar to C#, Java is also a object-oriented language and is intended to let application developers to "write once, run anywhere"(WORA). This means that if a code runs on a specific platform it can run on another one without having to be recompiled.
+
+4. C++
+
+ This programming language was developed by Microsoft and is an intermediate-level language, as it comprises both high- and low-level language features. It is one of the most used programming languages and can be found on lots of hardware and operating system platforms. Originally it was named "C with Classes" because it added object-oriented features such as classes to the C programming language. 
+
+5. Perl
+
+ Perl is a family of high-level, general-purpose, interpreted, dynamic programming languages that includes Perl 5 and Perl 6. It is nicknamed "the Swiss Army chainsaw of scripting languages" because of its flexibility and power,and possibly also because of its "ugliness". It is mainly used as a CGI scripting language but also for graphic and network programming, system administration, bioinformatics, finance and other applications.

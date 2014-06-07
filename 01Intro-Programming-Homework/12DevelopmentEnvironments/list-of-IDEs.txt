@@ -1,0 +1,19 @@
+1. Microsoft Visual Studio
+
+ Microsoft Visual Studio is an integrated development environment from Microsoft that is used to develop computer programs for Microsoft Windows superfamliy of operating systems, as well as web sites, web applications and web services. It supports different programming languages and allows the code editor and debugger to support nearly any programming language, provided a language-specific service exists. Some of those languages are c/C++, Visual Basic .NET, F# and C#. It also suppots JavaScript, HTML, Python, Ruby etc. but with separately installed services.
+
+2. Delphi
+
+ Delphi is an IDE for console, desktop graphical, web, and mobile applications. Delphi's compilers use their own Object Pascal dialect of Pascal and generate native code for 32- and 64-bit Windows operating systems, as well as 32-bit Mac OS X, iOS and Android. Delphi is a strongly typed high-level programming language, intended to be easy to use and is suitable for Rapid Application Development.
+
+3. NetBeans
+
+ NetBEans is an IDE for developing primarily with Java, but is also used with other languages such as PHP, C/C++ and HTML5. It is also an application platform framework for Java desktop applications and others. It can run on lots of platforms such as OS X, Linux, Solaris, Windows and others that support a compatible JVM (Java Virutal Machine).
+
+4. Eclipse 
+
+ Written mostly in Java, it can be used to develop applications.By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Perl, PHP, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. Eclipse contains a base workspace and an extensible plug-in system for customizing the enviornment. The Eclipse Software Development Kit is open source and is free.
+
+5. JDeveloper
+
+ JDeveloper is a freeware IDE developed by Oracle and offers features for development in XML, SQL, HTM, Java and Javascript, BPEL and PHP. JDeveloper covers the full development lifecycle from design through coding, debugging, optimization and profiling to deploying. Oracle JDeveloper integrates with the Oracle Application Development Framework (Oracle ADF) - an end-to-end Java EE-based framework that further simplifies application development.

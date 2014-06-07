@@ -1,0 +1,12 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\15AgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\15AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\15AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\15AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\15AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\15AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\15AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

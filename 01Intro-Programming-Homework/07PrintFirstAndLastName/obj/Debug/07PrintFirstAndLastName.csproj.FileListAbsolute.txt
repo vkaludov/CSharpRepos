@@ -1,0 +1,9 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\07PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\07PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\07PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\07PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\07PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\01Intro-Programming-Homework\07PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
