@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\07SumOf5Numbers\obj\Debug\07SumOf5Numbers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\07SumOf5Numbers\obj\Debug\07SumOf5Numbers.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\07SumOf5Numbers\obj\Debug\07SumOf5Numbers.csprojResolveAssemblyReference.cache

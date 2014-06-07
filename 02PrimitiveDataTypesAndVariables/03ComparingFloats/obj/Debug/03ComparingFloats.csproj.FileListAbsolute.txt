@@ -1,0 +1,12 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03ComparingFloats\bin\Debug\03ComparingFloats.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03ComparingFloats\bin\Debug\03ComparingFloats.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03ComparingFloats\bin\Debug\03ComparingFloats.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03ComparingFloats\obj\Debug\03ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03ComparingFloats\obj\Debug\03ComparingFloats.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03ComparingFloats\obj\Debug\03ComparingFloats.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\03ComparingFloats\bin\Debug\03ComparingFloats.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\03ComparingFloats\obj\Debug\03ComparingFloats.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\03ComparingFloats\obj\Debug\03ComparingFloats.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\03ComparingFloats\bin\Debug\03ComparingFloats.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\03ComparingFloats\bin\Debug\03ComparingFloats.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\03ComparingFloats\obj\Debug\03ComparingFloats.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.pdb

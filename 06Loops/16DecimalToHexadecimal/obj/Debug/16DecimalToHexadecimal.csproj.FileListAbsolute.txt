@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\16DecimalToHexadecimal\bin\Debug\16DecimalToHexadecimal.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\16DecimalToHexadecimal\bin\Debug\16DecimalToHexadecimal.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\16DecimalToHexadecimal\bin\Debug\16DecimalToHexadecimal.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\16DecimalToHexadecimal\obj\Debug\16DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\16DecimalToHexadecimal\obj\Debug\16DecimalToHexadecimal.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\16DecimalToHexadecimal\obj\Debug\16DecimalToHexadecimal.pdb

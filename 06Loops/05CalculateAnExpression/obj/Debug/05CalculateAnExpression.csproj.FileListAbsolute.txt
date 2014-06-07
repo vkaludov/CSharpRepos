@@ -1,0 +1,6 @@
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\05CalculateAnExpression\bin\Debug\05CalculateAnExpression.exe.config
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\05CalculateAnExpression\bin\Debug\05CalculateAnExpression.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\05CalculateAnExpression\bin\Debug\05CalculateAnExpression.pdb
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\05CalculateAnExpression\obj\Debug\05CalculateAnExpression.csprojResolveAssemblyReference.cache
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\05CalculateAnExpression\obj\Debug\05CalculateAnExpression.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\05CalculateAnExpression\obj\Debug\05CalculateAnExpression.pdb

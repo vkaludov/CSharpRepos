@@ -1,0 +1,5 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.pdb

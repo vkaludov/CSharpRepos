@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\07StringsAndObjects\bin\Debug\07StringsAndObjects.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\07StringsAndObjects\bin\Debug\07StringsAndObjects.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\07StringsAndObjects\bin\Debug\07StringsAndObjects.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\07StringsAndObjects\obj\Debug\07StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\07StringsAndObjects\obj\Debug\07StringsAndObjects.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\07StringsAndObjects\obj\Debug\07StringsAndObjects.pdb

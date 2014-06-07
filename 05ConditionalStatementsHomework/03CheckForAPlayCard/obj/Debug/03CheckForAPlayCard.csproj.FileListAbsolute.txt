@@ -1,0 +1,5 @@
+c:\users\vkaludov\documents\visual studio 2012\Projects\05ConditionalStatementsHomework\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.exe.config
+c:\users\vkaludov\documents\visual studio 2012\Projects\05ConditionalStatementsHomework\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\05ConditionalStatementsHomework\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.pdb
+c:\users\vkaludov\documents\visual studio 2012\Projects\05ConditionalStatementsHomework\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\05ConditionalStatementsHomework\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.pdb

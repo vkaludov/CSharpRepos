@@ -1,0 +1,5 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\06BooleanVariable\bin\Debug\06BooleanVariable.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\06BooleanVariable\bin\Debug\06BooleanVariable.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\06BooleanVariable\bin\Debug\06BooleanVariable.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\06BooleanVariable\obj\Debug\06BooleanVariable.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\06BooleanVariable\obj\Debug\06BooleanVariable.pdb

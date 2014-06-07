@@ -1,0 +1,5 @@
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe.config
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.pdb
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.pdb

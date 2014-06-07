@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\bin\Debug\11BitwiseExtractBitNumber3.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\bin\Debug\11BitwiseExtractBitNumber3.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\bin\Debug\11BitwiseExtractBitNumber3.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\obj\Debug\11BitwiseExtractBitNumber3.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\obj\Debug\11BitwiseExtractBitNumber3.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\obj\Debug\11BitwiseExtractBitNumber3.pdb

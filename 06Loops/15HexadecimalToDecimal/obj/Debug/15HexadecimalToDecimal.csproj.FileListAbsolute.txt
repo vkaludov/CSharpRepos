@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\15HexadecimalToDecimal\bin\Debug\15HexadecimalToDecimal.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\15HexadecimalToDecimal\bin\Debug\15HexadecimalToDecimal.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\15HexadecimalToDecimal\bin\Debug\15HexadecimalToDecimal.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\15HexadecimalToDecimal\obj\Debug\15HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\15HexadecimalToDecimal\obj\Debug\15HexadecimalToDecimal.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\15HexadecimalToDecimal\obj\Debug\15HexadecimalToDecimal.pdb

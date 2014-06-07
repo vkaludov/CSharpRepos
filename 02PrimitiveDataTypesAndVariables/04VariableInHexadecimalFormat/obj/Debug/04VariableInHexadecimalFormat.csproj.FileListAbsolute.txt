@@ -1,0 +1,5 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\04VariableInHexadecimalFormat\bin\Debug\04VariableInHexadecimalFormat.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\04VariableInHexadecimalFormat\bin\Debug\04VariableInHexadecimalFormat.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\04VariableInHexadecimalFormat\bin\Debug\04VariableInHexadecimalFormat.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\04VariableInHexadecimalFormat\obj\Debug\04VariableInHexadecimalFormat.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\04VariableInHexadecimalFormat\obj\Debug\04VariableInHexadecimalFormat.pdb

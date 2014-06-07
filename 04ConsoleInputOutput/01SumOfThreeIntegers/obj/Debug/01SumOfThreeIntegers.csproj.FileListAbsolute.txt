@@ -1,0 +1,6 @@
+c:\users\vkaludov\documents\visual studio 2012\Projects\04ConsoleInputOutput\01SumOfThreeIntegers\bin\Debug\01SumOfThreeIntegers.exe.config
+c:\users\vkaludov\documents\visual studio 2012\Projects\04ConsoleInputOutput\01SumOfThreeIntegers\bin\Debug\01SumOfThreeIntegers.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\04ConsoleInputOutput\01SumOfThreeIntegers\bin\Debug\01SumOfThreeIntegers.pdb
+c:\users\vkaludov\documents\visual studio 2012\Projects\04ConsoleInputOutput\01SumOfThreeIntegers\obj\Debug\01SumOfThreeIntegers.csprojResolveAssemblyReference.cache
+c:\users\vkaludov\documents\visual studio 2012\Projects\04ConsoleInputOutput\01SumOfThreeIntegers\obj\Debug\01SumOfThreeIntegers.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\04ConsoleInputOutput\01SumOfThreeIntegers\obj\Debug\01SumOfThreeIntegers.pdb

@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.pdb

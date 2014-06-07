@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\05UnicodeValue\bin\Debug\05UnicodeValue.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\05UnicodeValue\bin\Debug\05UnicodeValue.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\05UnicodeValue\bin\Debug\05UnicodeValue.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\05UnicodeValue\obj\Debug\05UnicodeValue.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\05UnicodeValue\obj\Debug\05UnicodeValue.pdb

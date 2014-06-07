@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\18TrailingZeroesInN!\bin\Debug\18TrailingZeroesInN!.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\18TrailingZeroesInN!\bin\Debug\18TrailingZeroesInN!.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\18TrailingZeroesInN!\bin\Debug\18TrailingZeroesInN!.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\18TrailingZeroesInN!\obj\Debug\18TrailingZeroesInN!.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\18TrailingZeroesInN!\obj\Debug\18TrailingZeroesInN!.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\18TrailingZeroesInN!\obj\Debug\18TrailingZeroesInN!.pdb

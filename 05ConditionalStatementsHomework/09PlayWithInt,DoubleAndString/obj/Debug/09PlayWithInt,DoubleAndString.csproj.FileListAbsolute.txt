@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\09PlayWithInt,DoubleAndString\bin\Debug\09PlayWithInt,DoubleAndString.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\09PlayWithInt,DoubleAndString\bin\Debug\09PlayWithInt,DoubleAndString.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\09PlayWithInt,DoubleAndString\bin\Debug\09PlayWithInt,DoubleAndString.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\09PlayWithInt,DoubleAndString\obj\Debug\09PlayWithInt,DoubleAndString.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\09PlayWithInt,DoubleAndString\obj\Debug\09PlayWithInt,DoubleAndString.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\09PlayWithInt,DoubleAndString\obj\Debug\09PlayWithInt,DoubleAndString.pdb

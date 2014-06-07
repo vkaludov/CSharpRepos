@@ -1,0 +1,5 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.pdb

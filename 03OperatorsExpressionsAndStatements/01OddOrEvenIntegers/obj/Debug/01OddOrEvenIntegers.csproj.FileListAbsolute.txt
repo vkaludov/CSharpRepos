@@ -1,0 +1,12 @@
+c:\users\vkaludov\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe.config
+c:\users\vkaludov\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.pdb
+c:\users\vkaludov\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+c:\users\vkaludov\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.csprojResolveAssemblyReference.cache

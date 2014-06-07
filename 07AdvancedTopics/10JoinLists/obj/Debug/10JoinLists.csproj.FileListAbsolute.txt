@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\10JoinLists\bin\Debug\10JoinLists.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\10JoinLists\bin\Debug\10JoinLists.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\10JoinLists\bin\Debug\10JoinLists.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\10JoinLists\obj\Debug\10JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\10JoinLists\obj\Debug\10JoinLists.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\10JoinLists\obj\Debug\10JoinLists.pdb

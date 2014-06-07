@@ -1,0 +1,5 @@
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\06CalculateFactoriel\bin\Debug\06CalculateFactoriel.exe.config
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\06CalculateFactoriel\bin\Debug\06CalculateFactoriel.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\06CalculateFactoriel\bin\Debug\06CalculateFactoriel.pdb
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\06CalculateFactoriel\obj\Debug\06CalculateFactoriel.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\06CalculateFactoriel\obj\Debug\06CalculateFactoriel.pdb

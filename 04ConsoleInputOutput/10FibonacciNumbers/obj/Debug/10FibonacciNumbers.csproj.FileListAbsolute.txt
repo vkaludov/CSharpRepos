@@ -1,0 +1,5 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\04ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\03OperatorsExpressionsAndStatements\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.pdb

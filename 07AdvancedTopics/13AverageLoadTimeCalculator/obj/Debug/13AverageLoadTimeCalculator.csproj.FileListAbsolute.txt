@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.pdb

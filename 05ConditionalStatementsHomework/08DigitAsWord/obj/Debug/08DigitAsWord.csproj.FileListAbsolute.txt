@@ -1,0 +1,5 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\05ConditionalStatementsHomework\08DigitAsWord\obj\Debug\08DigitAsWord.pdb

@@ -1,0 +1,6 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\14LongestWordInAText\bin\Debug\14LongestWordInAText.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\14LongestWordInAText\bin\Debug\14LongestWordInAText.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\14LongestWordInAText\bin\Debug\14LongestWordInAText.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\14LongestWordInAText\obj\Debug\14LongestWordInAText.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\14LongestWordInAText\obj\Debug\14LongestWordInAText.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\07AdvancedTopics\14LongestWordInAText\obj\Debug\14LongestWordInAText.pdb

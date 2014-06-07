@@ -1,0 +1,6 @@
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\07CalculateExpressionWithFactoriel\bin\Debug\07CalculateExpressionWithFactoriel.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\07CalculateExpressionWithFactoriel\bin\Debug\07CalculateExpressionWithFactoriel.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\07CalculateExpressionWithFactoriel\bin\Debug\07CalculateExpressionWithFactoriel.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\07CalculateExpressionWithFactoriel\obj\Debug\07CalculateExpressionWithFactoriel.csprojResolveAssemblyReference.cache
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\07CalculateExpressionWithFactoriel\obj\Debug\07CalculateExpressionWithFactoriel.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\06Loops\07CalculateExpressionWithFactoriel\obj\Debug\07CalculateExpressionWithFactoriel.pdb

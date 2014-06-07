@@ -1,0 +1,5 @@
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\03MinMaxSumAvgOfNumbers\bin\Debug\03MinMaxSumAvgOfNumbers.exe.config
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\03MinMaxSumAvgOfNumbers\bin\Debug\03MinMaxSumAvgOfNumbers.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\03MinMaxSumAvgOfNumbers\bin\Debug\03MinMaxSumAvgOfNumbers.pdb
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\03MinMaxSumAvgOfNumbers\obj\Debug\03MinMaxSumAvgOfNumbers.exe
+c:\users\vkaludov\documents\visual studio 2012\Projects\06Loops\03MinMaxSumAvgOfNumbers\obj\Debug\03MinMaxSumAvgOfNumbers.pdb

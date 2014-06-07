@@ -1,0 +1,8 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.pdb

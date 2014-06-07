@@ -1,0 +1,8 @@
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+C:\Users\VKaludov\Documents\Visual Studio 2012\Projects\02PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb
